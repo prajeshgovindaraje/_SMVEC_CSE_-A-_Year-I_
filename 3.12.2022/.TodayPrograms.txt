@@ -1,1 +1,4 @@
 
+Dec 3 Problems list
+
+1.Rock,Paper,Scissor 
