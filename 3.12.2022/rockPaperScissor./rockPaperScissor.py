@@ -19,7 +19,7 @@ elif n=='sizor' and chos=='rock':
 elif n=='sizor' and chos=='paper':
     print("you win")
 else:
-  print("enter valid input")
+  print("enter valid input ")
     
 
 
