@@ -1,6 +1,6 @@
 import random
 n=input("enter your choise: ")
-ist1 = ['rock', 'paper', 'sissor']
+ist1=['rock', 'paper', 'sissor']
 x=random.choice(ist1)
 print("computer's choise:",x)
 chos=x
@@ -19,7 +19,7 @@ elif n=='sissor' and chos=='rock':
 elif n=='sissor' and chos=='paper':
     print("you win")
 else:
-  print("enter valid input ")
+  print("enter valid input")
     
 
 
